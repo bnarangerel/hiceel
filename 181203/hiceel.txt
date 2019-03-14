@@ -1,0 +1,35 @@
+grid system & 960 GS(baganan huvaalt)
+12, 16, 24 baganand huvaadg iluu emh tsemgtstei zov haragduulj cddg
+huudasni buh heseg n bagani orgonoor hemjigdene huudasni standart zai 10px.
+12 bagana 
+1 bagana n 60 px zai 2  bagana niiled 140px zai n 20px gh met 1 bgana hajuuda urgrlj 10 px;
+16 bagana
+1 bagana n 40px, zai n 20px,
+24 bagana
+1 bagana 30px, 2 zahinh n 5 px, zain 10px blsn gsn ug
+responsive web designi hmgin cuhal n grid system ym. zovhn html css ashigladag
+gutter & margins
+margin n 2 zahin zai
+mon heregsel hoorondin zai
+gutter n uusej bui zai
+floating <div>
+<div> n css classr damjuulan bagani orgon haragdah baidal zergiig shiiddg
+classguigeer bagani hemjeeg nygtlah bolomjgui
+grid_x = x iin utga heddugeer baganig zaahig heldeg/<div class="grid_7">/
+row= container/huvaalgc/
+.container_x{
+display: grid;
+grid-template-column: repeat(12,fr);
+max-width: 960 px;
+}
+<div class="container_12" ></div>
+<div class="grid_2"></div>
+*aplha(zuun) & omega(baruun)-baruun ba zuun taliin heregtseegui zaig ustgadag
+<div class="grid_2 alpha">
+*pull & push-zaasan gazart garc irdeg, bairig n solij
+row= mor
+colums= bagana
+
+
+
+

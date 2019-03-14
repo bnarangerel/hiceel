@@ -1,0 +1,15 @@
+1. tongorgoson toon anhni too bdg ehnii 100 toog ol
+2. ehnii 2 tsifriin niilber n anhnii too bh buh 4 orontoi toog hevle
+3. suulciin 2 tsifriin niilber n anhni too bh buh 4 orontoi toog hevle
+4. insertion toog ashiglana 10 toog osoh darallaar bairluul
+5. quick sort ashiglaJ BUURUUL
+6. 200 gaas htrhgui buh iher anhnii toonuudiig ol // 2 anhni toon 1 n ngogooso 2oor ylgaatai bvl iher gne
+7.  3 ug ogogson tedgeerees ydj 1n palindrom esehiig tg
+
+
+
+too//function
+8. 2 oguulber ogogson tedgeer deh a usgiin niit toog ol.function
+9. ogoson temdegt mor dh buh ugiin toog ol
+10. temdegt moriin ug buriin ehnii usgiig ustga
+11. avtobusni pilet 6 tsifrees tgtono ehnii 3 tsifriin niilber suuliin 3 tsifrtei tntsuu bvl aziin pilet gne az bvl 1 uguu bol oor too
